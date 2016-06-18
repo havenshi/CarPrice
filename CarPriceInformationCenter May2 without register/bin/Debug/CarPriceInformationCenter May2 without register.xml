@@ -1,0 +1,476 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CarPriceInformationCenterMay2withoutregister
+</name>
+</assembly>
+<members>
+<member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.CAR_MODELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.DISCOUNTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.SALES_ORDERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.STORESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.ManSearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.ModelSearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.StoreSearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.CAR_MODELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.DISCOUNTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.SALES_ORDERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.STORESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.ManSearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.ModelSearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.StoreSearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.CAR_MODELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.DISCOUNTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.SALES_ORDERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.STORESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.ManSearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.ModelSearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet.StoreSearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.CAR_MODELTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.DISCOUNTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.SALES_ORDERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.STORESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.ManSearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.ModelSearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.StoreSearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.UpdateAll(CarPriceInformationCenter_May2_without_register.project_May3_dataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May3_dataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._010">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._011">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._03">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._04">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._05">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._06">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._07">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._08">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._09">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources._next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.back1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.click">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.exit1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.exit2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.home_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.home1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.next1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.next2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.next副本">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CarPriceInformationCenter_May2_without_register.My.Resources.Resources.register">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1.STORESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1.STORESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1.STORESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.STORESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.UpdateAll(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.CAR_MODELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.DISCOUNTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.SALES_ORDERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.STORESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.ManSearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.ModelSearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.StoreSearchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.CAR_MODELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.DISCOUNTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.SALES_ORDERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.STORESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.ManSearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.ModelSearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.StoreSearchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.CAR_MODELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.DISCOUNTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.SALES_ORDERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.STORESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.ManSearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.ModelSearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet.StoreSearchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.CAR_MODELTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.DISCOUNTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.SALES_ORDERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.STORESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.ManSearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.ModelSearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.StoreSearchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.UpdateAll(CarPriceInformationCenter_May2_without_register.project_May2_dataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CarPriceInformationCenter_May2_without_register.project_May2_dataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
